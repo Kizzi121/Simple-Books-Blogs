@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "title": "Atomic Habits by James Clear",
+      "content": "A transformative guide to building good habits and breaking bad ones. Learn how small, consistent changes can lead to remarkable results.",
+      "author": "James Clear"
+    },
+    {
+      "id": 2,
+      "title": "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+      "content": "A thought-provoking exploration of human history, from early Homo sapiens to today. Harari dives into how culture, society, and technology shaped us.",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "id": 3,
+      "title": "The Alchemist by Paulo Coelho",
+      "content": "An inspiring story of a young shepherd's journey to discover his personal legend. This novel speaks to the importance of pursuing your dreams.",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": 4,
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "content": "A deep dive into the two systems that drive the way we think. Kahneman reveals insights into human decision-making and cognitive biases.",
+      "author": "Daniel Kahneman"
+    },
+    {
+      "id": 5,
+      "title": "Educated by Tara Westover",
+      "content": "A powerful memoir of a woman who grows up in a strict and abusive household but ultimately pursues education, transforming her life.",
+      "author": "Tara Westover"
+    },
+    {
+      "id": 6,
+      "title": "The Lean Startup by Eric Ries",
+      "content": "A must-read for entrepreneurs and innovators, this book offers strategies for creating and managing successful startups in uncertain environments.",
+      "author": "Eric Ries"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird by Harper Lee",
+      "content": "A classic novel that explores racial injustice in the American South through the eyes of young Scout Finch. A powerful story with timeless themes.",
+      "author": "Harper Lee"
+    },
+    {
+      "id": 8,
+      "title": "The Power of Now by Eckhart Tolle",
+      "content": "A guide to spiritual enlightenment, this book teaches the importance of living in the present moment and finding inner peace.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": 9,
+      "title": "Becoming by Michelle Obama",
+      "content": "An intimate and inspiring memoir by former First Lady Michelle Obama, covering her life, challenges, and journey to self-discovery.",
+      "author": "Michelle Obama"
+    },
+    {
+      "id": 10,
+      "title": "1984 by George Orwell",
+      "content": "A dystopian novel that portrays a terrifying vision of a totalitarian regime. It explores themes of surveillance, freedom, and the power of the state.",
+      "author": "George Orwell"
+    }
+  ]
+  
+  
